@@ -1,3 +1,6 @@
+## My My Tran
+This repo is a clone of 
+https://github.com/nelaturuk/education_pathways.  
 # CARTE Education Pathways
 
 Team Members: Mymy Tran, Grace Jiang, Yixin Tian.
@@ -14,11 +17,11 @@ Whatever year you are looking for, Education Pathways will also suggest courses 
 
 We are looking for feedback to improve Education Pathways and make it more useful for students. If you have ideas or suggestions, please email us!
 
-## Setup Instructions
+Activity 1:
 
-### With Docker
-
-
+Activity 2-5:
+![](images/ep_main.png)
+![](images/ep_results.png)
 
 ## Repository files:
 
