@@ -3,13 +3,17 @@
     margin-bottom: 40px;
     margin-right: 100px;
     margin-right: 100px;
+    color: rgba(255, 255, 255, 0.705);
+    background-color: rgba(53, 53, 53, 0.705);
+
 }
 
 #home-page-feedback-text{
     margin-top: 20px;
     font-style: italic;
-    color: rgba(53, 53, 53, 0.705);
+    color: rgba(255, 255, 255, 0.705);
+    background-color: rgba(53, 53, 53, 0.705);
+
 }
 
-/* #home-left-grid{
-} */
+
