@@ -1,0 +1,59 @@
+body {
+    font-family: "Verdana";
+    background-color: #C7F3FF ;
+    padding: 40px;
+}
+  
+h1 {
+    color: #00204E;
+}
+
+h1 {
+    color: #00204E
+
+}
+
+.common-page-heading-container{
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+/* .common-page-form-field{
+    margin-bottom: 2px;
+    margin-top:  2px; 
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.common-page-form select{ 
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #F5F5DC ;
+}
+
+
+.common-page-form input {
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #F5F5DC ;
+}
+
+.common-page-form{
+    border-style: solid;
+    border: 2px;
+    color: #00204E;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top:  20px; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.common-page-submit-btn{
+    margin-top:  20px; 
+    /* background-color: #C7F3FF ; */
+
+}
