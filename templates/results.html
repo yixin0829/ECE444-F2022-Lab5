@@ -13,7 +13,21 @@
 
 <body>
     {% from "_formhelpers.html" import render_field %}
-    <form method="post">
+    <h3> Search for courses </h3>
+    <form method="post" class = ‘common-page-form’>
+      <dl>
+        {{ render_field(form.select) }}
+        <p>
+            Restrict by one of: {{ render_field(form.divisions) }} or {{ render_field(form.departments) }} or {{ render_field(form.campuses) }}
+        </p> 
+        <p>
+        {{ render_field(form.search) }}
+      </p></dl>
+      <p>{{render_field(form.top)}} 
+        <button class="btn btn-light common-page-submit-btn" type="submit" value="Search">Search</button>
+          <!-- <input type="submit" value="Search"> -->
+    </p></form>
+    <!-- <form method="post">
       <dl>
         {{ render_field(form.select) }}
         <p>
@@ -23,10 +37,12 @@
         {{ render_field(form.search) }}
       </p></dl>
       <p>{{render_field(form.top)}} <input type="submit" value="Search">
-      </p></form>
-    
+      </p></form> -->
+<div id = "results-page-table-container">
+<h3>Search Results</h3>
 {% for table in tables %}
             {{ table|safe }}
 {% endfor %}
+</div>
 </body>
 </html>
