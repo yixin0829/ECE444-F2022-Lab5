@@ -1,3 +1,6 @@
+## My My Tran
+This repo is a clone of 
+https://github.com/nelaturuk/education_pathways.  
 # CARTE Education Pathways
 
 ## Description
