@@ -1,4 +1,48 @@
-h1 {
-    color: rebeccapurple;
-    text-align: center
+body {
+    font-family: Verdana;
+    padding: 40px;
+    background-color: #c7f3ff;
+}
+
+h1, h2, h3 {
+    /* color: #00204e; */
+    color: red;
+}
+
+.common-page-heading-container {
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    /* or margin: 20px auto; (shorthand) */
+}
+
+.common-page-form select {
+    background-color: beige;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.common-page-form input {
+    background-color: beige;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.commmon-page-form-field {
+    margin: 2px auto
+}
+
+.common-page-form {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #00204e;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+.common-page-submit-btn {
+    margin-top: 20px;
 }
