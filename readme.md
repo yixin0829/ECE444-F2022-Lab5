@@ -4,13 +4,13 @@ Team Members: Mymy Tran, Grace Jiang, Yixin Tian.
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
-Screenshot of Repo in your GitHub account:
-As a user, <>
-![image](images/userstory1.png)
-2. As a user, I want to browse courses given key terms and different restrictions.
-3. As a user, I want an option to learn more about the website.
-![image](images/userstory3.png)
-![image](userstory-2-3-commented.png)
+Screenshot's Lab 5:
+## Activity 1:
+![image](https://user-images.githubusercontent.com/56566212/197398388-87f4e57b-21a2-447d-97de-935dd4cca5d2.png)
+
+## Activity 2-5:
+![image](images/ep_main.png)
+![image](images/ep_results.png)
 
 ## Activity 6: FE Protypings
 ### Prototype 1: Homepage Search Form
@@ -21,6 +21,15 @@ As a user, <>
 
 ### Prototype 3: About Page Link
 ![image](https://user-images.githubusercontent.com/56566212/197421559-969a4093-3285-4916-857e-2bb4b160bfbb.png)
+
+### Final Implementation Designs
+1. As a user, <>
+![image](images/userstory1.png)
+2. As a user, I want to browse courses given key terms and different restrictions.
+3. As a user, I want an option to learn more about the website.
+![image](userstory-2-3-commented.png)
+![image](images/userstory3.png)
+
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
