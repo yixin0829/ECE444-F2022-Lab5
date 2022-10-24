@@ -13,22 +13,25 @@ Screenshot's Lab 5:
 ![image](images/ep_results.png)
 
 ## Activity 6: FE Protypings
-### Prototype 1: Homepage Search Form
-![image](https://user-images.githubusercontent.com/56566212/197421326-a6bd93ed-9e31-46f1-9ef1-265eca275ac9.png)
 
-### Prototype 2: Course Page Grid
+### Prototype 1: Course Page Grid
 ![image](https://user-images.githubusercontent.com/56566212/197421444-13b871a4-4c6f-4a45-b106-9462dfb370fb.png)
+
+### Prototype 2: Homepage Search Form
+![image](https://user-images.githubusercontent.com/56566212/197421326-a6bd93ed-9e31-46f1-9ef1-265eca275ac9.png)
 
 ### Prototype 3: About Page Link
 ![image](https://user-images.githubusercontent.com/56566212/197421559-969a4093-3285-4916-857e-2bb4b160bfbb.png)
 
 ### Final Implementation Designs
-1. As a user, <>
-![image](images/userstory1.png)
-2. As a user, I want to browse courses given key terms and different restrictions.
-3. As a user, I want an option to learn more about the website.
+1. As a user, I want to see course information in a more organized way so that I can prioritize the information needed.
+![image](https://user-images.githubusercontent.com/56566212/197535479-5a81e1e3-e5be-41af-891f-ecd8794d1873.png)
+
+2. As a user, I want to browse courses given key terms and different restrictions so that I can have more control to the searching.
 ![image](userstory-2-3-commented.png)
-![image](images/userstory3.png)
+
+3. As a user, I want an option to learn more about the website easily seen so that I can onboard myself easily when I first land on the homepage.
+![image](userstory-2-3-commented.png)
 
 
 ## Description
