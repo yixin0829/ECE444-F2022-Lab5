@@ -1,7 +1,11 @@
-## My My Tran
-This repo is a clone of 
-https://github.com/nelaturuk/education_pathways.  
 # CARTE Education Pathways
+
+Team Members: Mymy Tran, Grace Jiang, Yixin Tian.
+
+This repo is a clone of https://github.com/nelaturuk/education_pathways.
+
+Screenshot of Repo in your GitHub account:
+![image](https://user-images.githubusercontent.com/56566212/197398388-87f4e57b-21a2-447d-97de-935dd4cca5d2.png)
 
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
@@ -10,11 +14,12 @@ Whatever year you are looking for, Education Pathways will also suggest courses 
 
 We are looking for feedback to improve Education Pathways and make it more useful for students. If you have ideas or suggestions, please email us!
 
-## Setup Instructions
+Screenshot's Lab 5:
+Activity 1:
 
-### With Docker
-
-
+Activity 2-5:
+![](images/ep_main.png)
+![](images/ep_results.png)
 
 ## Repository files:
 
