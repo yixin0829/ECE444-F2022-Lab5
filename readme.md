@@ -1,6 +1,6 @@
 # CARTE Education Pathways
 
-Team Members: Mymy Tran, Grace Jiang, Yixin Tian.
+Team Members: Mymy Tran, Yixin Tian.
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
